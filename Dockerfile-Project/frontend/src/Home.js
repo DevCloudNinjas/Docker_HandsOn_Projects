@@ -8,11 +8,11 @@
     return (
       <div className="home-container">
         <div className="content">
-          <h1 className="title animated-text">Welcome to Student-Teacher Portal</h1>
+          <h1 className="title animated-text">Welcome to DevCloud Ninjas Class Portal</h1>
           <div className="button-container">
-            <Link to="/student" className="student-button">Student</Link>
+            <Link to="/student" className="student-button">Genin/Student</Link>
             <div className="button-gap"></div>
-            <Link to="/teacher" className="teacher-button">Teacher</Link>
+            <Link to="/teacher" className="teacher-button">Sensei</Link>
           </div>
         </div>
       </div>
